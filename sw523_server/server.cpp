@@ -6,10 +6,6 @@
 //  Copyright © 2019年 maxinyu. All rights reserved.
 //
 
-/*
- 1.UI
- 2.multithreading server (different user different server)
- */
 
 /***************SW523 Game Rules***************/
 /*
