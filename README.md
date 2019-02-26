@@ -33,12 +33,12 @@ Here is the rules of the game.
 ## Project Structure
 ```bash
 ├── README.md
-└───sw523
-    ├───*server.cpp
-    ├───*cards.cpp
-    ├───*cards.hpp
-    ├───*player.cpp
-    └───*player.hpp  
+├───sw523
+│   ├───*server.cpp
+│   ├───*cards.cpp
+│   ├───*cards.hpp
+│   ├───*player.cpp
+│   └───*player.hpp  
 └───client
     └───*client.cpp
 ```
